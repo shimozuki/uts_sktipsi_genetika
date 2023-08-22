@@ -97,7 +97,7 @@ class Home extends MY_Controller
             $data['kontak_subtitle'] = $item->kontak_subtitle;
             // End Kontak
         }
-        $this->load->view('home/index', $data);
+        $this->load->view('home/registrasi');
     }
 
     public function registrasi()
