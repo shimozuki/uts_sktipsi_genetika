@@ -82,12 +82,12 @@
                 <span class="nav-link-text">Bimbingan</span>
               </a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link" href="<?= base_url() ?>dosen/penelitian">
                 <i class="ni ni-bulb-61 text-purple"></i>
                 <span class="nav-link-text">Seminar Hasil Penelitian</span>
               </a>
-            </li>
+            </li> -->
             <li class="nav-item">
               <a class="nav-link" href="<?= base_url() ?>dosen/skripsi">
                 <i class="fa fa-list text-primary"></i>
