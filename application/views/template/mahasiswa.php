@@ -59,12 +59,12 @@ foreach ($dataUser as $du) {
                   <span class="nav-link-text">Seminar Proposal</span>
                 </a>
               </li>
-              <li class="nav-item">
+              <!-- <li class="nav-item">
                 <a class="nav-link" href="<?= base_url() ?>mahasiswa/penelitian">
                   <i class="ni ni-bulb-61 text-purple"></i>
                   <span class="nav-link-text">Seminar Hasil Penelitian</span>
                 </a>
-              </li>
+              </li> -->
               <li class="nav-item">
                 <a class="nav-link" href="<?= base_url() ?>mahasiswa/skripsi">
                   <i class="fa fa-list text-primary"></i>
