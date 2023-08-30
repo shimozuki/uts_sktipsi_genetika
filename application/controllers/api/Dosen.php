@@ -52,7 +52,22 @@ class Dosen extends REST_Controller
 
     public function generateseminar()
     {
-        
+        // Check if the request is an AJAX request
+        if ($this->input->is_ajax_request()) {
+            // Get the value of 'generate' parameter
+            $generate = $this->input->post('generate');
+
+            // Call the stored procedure using the 'generate' parameter
+            $this->db->query("CALL UpdateSeminarSchedule($generate)");
+
+            // Send a response back to the AJAX request
+            $response = array('status' => 'success', 'message' => 'Stored procedure executed successfully.');
+            echo json_encode($response);
+        } else {
+            // If not an AJAX request, show an error message or redirect
+            $response = array('status' => 'error', 'message' => 'Invalid request.');
+            echo json_encode($response);
+        }
     }
 }
 
