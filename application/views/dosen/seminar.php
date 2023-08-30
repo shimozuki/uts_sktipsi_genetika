@@ -192,6 +192,32 @@
     function disableBtn() {
         $(".btn-act").attr('disabled', true).html('Loading ...')
     }
+
+    $(document).ready(function() {
+            $('#generateButton').click(function() {
+                var generate = 1;
+
+                $.ajax({
+                    url: '<?php echo base_url("Dosen/generateseminar"); ?>',
+                    type: 'POST',
+                    data: { generate: generate },
+                    dataType: 'json',
+                    success: function(response) {
+                        if (response.status === 'success') {
+                            alert(response.message);
+                            // Handle success actions here
+                        } else {
+                            alert(response.message);
+                            // Handle error actions here
+                        }
+                    },
+                    error: function(xhr, textStatus, errorThrown) {
+                        alert('AJAX request failed.');
+                        console.log(xhr.responseText);
+                    }
+                });
+            });
+        });
 </script>
 <?php $this->app->endSection('script') ?>
 
