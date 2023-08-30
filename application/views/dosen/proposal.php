@@ -177,9 +177,9 @@
 
                     },
                 ],
-                "language": {
-                    "zeroRecords": "data tidak tersedia"
-                }
+                // "language": {
+                //     "zeroRecords": "data tidak tersedia"
+                // }
             });
         }
         show();

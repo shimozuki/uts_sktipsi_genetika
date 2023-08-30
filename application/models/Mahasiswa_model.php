@@ -40,6 +40,10 @@ class Mahasiswa_model extends CI_Model
         return $hasil;
     }
 
+    public function verifikasi_mhs($status, $id)
+    {
+        
+    }
     public function create($input)
     {
         $data = [

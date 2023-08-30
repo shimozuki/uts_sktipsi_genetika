@@ -1,0 +1,546 @@
+ERROR - 2023-08-29 02:06:59 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:06:59 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:06:59 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:06:59 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:06:59 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:06:59 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:07:02 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:07:02 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:07:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:07:02 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:07:02 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:07:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:07:13 --> Severity: Warning --> Undefined variable $seminar_proposal D:\xampp\htdocs\abbas\application\views\admin\pencarian_mahasiswa.php 72
+ERROR - 2023-08-29 02:07:13 --> Severity: Warning --> Undefined variable $hasil_penelitian D:\xampp\htdocs\abbas\application\views\admin\pencarian_mahasiswa.php 79
+ERROR - 2023-08-29 02:07:30 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:07:30 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:07:30 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:07:30 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Hasil_kegiatan_model.php 11
+ERROR - 2023-08-29 02:07:35 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:07:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:07:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:07:35 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:07:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:07:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:08:18 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:08:18 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:08:18 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:08:18 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:08:18 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:08:18 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:08:20 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:08:20 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:08:20 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:08:20 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:08:20 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:08:20 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:09:03 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:09:03 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:09:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:09:03 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:09:03 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:09:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:09:46 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:09:46 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:10:47 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:10:47 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:10:53 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:10:53 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:10:55 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:10:55 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:11:29 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:11:29 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:11:29 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:11:29 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:11:29 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:11:29 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:11:29 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:11:29 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:21 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:21 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:21 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:12:21 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:21 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:21 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:12:21 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:21 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:12:24 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:12:33 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:33 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:33 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:12:33 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:33 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:33 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:12:33 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:33 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:12:48 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:12:57 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 02:13:02 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Konsultasi_model.php 41
+ERROR - 2023-08-29 02:13:16 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:13:16 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:13:16 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:13:16 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:13:16 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:13:16 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:13:16 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:13:16 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:13:55 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:14:02 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\controllers\admin\Mahasiswa.php 28
+ERROR - 2023-08-29 02:14:02 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\controllers\admin\Mahasiswa.php 29
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:14:12 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:14:37 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:37 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:14:37 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:37 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:14:37 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:37 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:43 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:43 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:43 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:14:43 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:43 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:43 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:14:43 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:43 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:14:49 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:15:21 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:15:21 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:22:44 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:22:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:22:44 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:22:44 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:22:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:22:44 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:22:44 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:22:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:22:47 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:22:55 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:22:55 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:23:01 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:23:01 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:23:34 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:23:46 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:25:30 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:25:30 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:25:58 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:25:58 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:26:05 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:26:05 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:28:03 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:28:03 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:28:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:28:03 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:28:03 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:28:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:28:03 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:28:03 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:28:09 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:28:09 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:28:09 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:28:09 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:28:09 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:28:09 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:28:09 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:28:09 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:28:19 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 02:28:19 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 02:28:51 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:28:51 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:28:51 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:28:51 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:28:51 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:28:51 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:28:51 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:28:51 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:29:28 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:35:12 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:35:12 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:35:12 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:35:12 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:35:12 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:35:12 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:37:41 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:37:41 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:37:41 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:37:41 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 02:37:44 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:37:44 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:37:44 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:37:44 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Hasil_kegiatan_model.php 11
+ERROR - 2023-08-29 02:37:50 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Konsultasi_model.php 41
+ERROR - 2023-08-29 02:37:50 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 02:37:54 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:37:54 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:37:54 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:37:54 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:37:54 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:37:54 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:37:54 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:37:54 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:37:54 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:37:56 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:37:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:37:56 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:37:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:40:14 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:40:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:40:14 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:40:14 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:40:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:40:14 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:40:26 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:40:26 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:40:26 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:40:26 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:40:26 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:40:26 --> Severity: Warning --> Trying to access array offset on value of type null D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 27
+ERROR - 2023-08-29 02:42:00 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:42:00 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:50:56 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:50:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:51:26 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:51:26 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:52:08 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:52:08 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:52:15 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:52:15 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:53:19 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:53:19 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:53:19 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:53:19 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:53:22 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:53:22 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:53:22 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:53:22 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:53:22 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:53:22 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:53:22 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:53:33 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:53:33 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:53:33 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:53:33 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:53:33 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:53:33 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:53:33 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:54:20 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\controllers\admin\Mahasiswa.php 28
+ERROR - 2023-08-29 02:54:20 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\controllers\admin\Mahasiswa.php 29
+ERROR - 2023-08-29 02:54:27 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:54:27 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:54:27 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:54:27 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:54:28 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:54:28 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:54:28 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:54:41 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:54:41 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:54:41 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:54:41 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:54:41 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:54:41 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:54:41 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:55:16 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:55:16 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:55:16 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:55:16 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:55:18 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:55:18 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:55:18 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:55:18 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:55:18 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:55:18 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:55:18 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:55:25 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\controllers\admin\Mahasiswa.php 28
+ERROR - 2023-08-29 02:55:25 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\controllers\admin\Mahasiswa.php 29
+ERROR - 2023-08-29 02:55:31 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:55:31 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:55:31 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:55:31 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:55:50 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:55:50 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:55:50 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:55:50 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:55:51 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:55:51 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:55:51 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 02:56:32 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:56:32 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:56:32 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:56:32 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:56:34 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 02:56:39 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 02:56:40 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Konsultasi_model.php 41
+ERROR - 2023-08-29 02:57:09 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:57:09 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:57:09 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 02:57:09 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 02:57:09 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 02:57:09 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 02:57:09 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:00:28 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:00:28 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:00:28 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:00:28 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:00:29 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:00:29 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:00:29 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:00:29 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:00:29 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:00:29 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:00:29 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:00:33 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:01:07 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:01:07 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:01:07 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:01:07 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:01:37 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:01:37 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:01:37 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:01:37 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:01:39 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:01:39 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:01:39 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:01:39 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:01:45 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:01:45 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:01:45 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:01:45 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:01:45 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:01:45 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:01:45 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:02:03 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:02:03 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:02:03 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:02:03 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:02:03 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:02:03 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:02:03 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:02:06 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:02:10 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:02:13 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:05:10 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:05:10 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:05:10 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:05:10 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:05:10 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:05:10 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:05:10 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:05:33 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:05:33 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:05:33 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:05:33 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:05:35 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:05:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:05:35 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:05:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:05:36 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:05:36 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:05:36 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:06:12 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:06:12 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:06:12 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:06:12 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:06:12 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:06:12 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:06:12 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:06:14 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:06:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:06:14 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:06:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:06:14 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:06:14 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:06:14 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:06:43 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:06:43 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:06:53 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:06:53 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:06:54 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:06:54 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:06:54 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:06:54 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:06:54 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:06:54 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:06:54 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:07:32 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:32 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:32 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:07:32 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:07:32 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:07:32 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:07:32 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:07:32 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:07:32 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:07:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:41 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:41 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:47 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:47 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:51 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:51 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:58 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:07:58 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:08:15 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:08:15 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:08:15 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:08:15 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:08:15 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:08:15 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:08:23 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:08:23 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:08:23 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:08:23 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:08:23 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:08:23 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:08:23 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:08:23 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:08:23 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:09:08 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:09:08 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:09:08 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:09:08 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:09:08 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:09:08 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:09:08 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:10:41 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:10:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-29 03:10:42 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:10:42 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:10:42 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:10:42 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:10:42 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:10:57 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:10:57 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:10:57 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:10:57 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:10:57 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:11:25 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:11:25 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:11:25 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:12:01 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:12:01 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:12:02 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:12:02 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:12:03 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:12:03 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:12:03 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:12:41 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:12:41 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:12:41 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:12:59 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:12:59 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:12:59 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:15:44 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:15:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:15:48 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:16:02 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:16:07 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Konsultasi_model.php 41
+ERROR - 2023-08-29 03:16:11 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:16:44 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:16:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:16:47 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:17:16 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:17:23 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:17:23 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:17:23 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:17:23 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:17:24 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:17:24 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:17:24 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:17:39 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:17:39 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:17:43 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:19:25 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:19:25 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:19:33 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Penelitian_model.php 29
+ERROR - 2023-08-29 03:19:38 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-29 03:19:38 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-29 03:19:39 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-29 03:19:39 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-29 03:19:39 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-29 03:19:40 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Konsultasi_model.php 41
+ERROR - 2023-08-29 03:19:40 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-29 03:19:46 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32

@@ -49,6 +49,11 @@ class Dosen extends REST_Controller
         $response = $this->model->details($id);
         return $this->response($response);
     }
+
+    public function generateseminar()
+    {
+        
+    }
 }
 
 /* End of file Dosen.php */
