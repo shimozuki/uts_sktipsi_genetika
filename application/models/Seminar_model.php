@@ -48,9 +48,9 @@ class Seminar_model extends CI_Model
 	{
 		$data = [
 			'proposal_mahasiswa_id' => $input['proposal_mahasiswa_id'],
-			'tanggal' => $input['tanggal'],
-			'jam' => $input['jam'],
-			'tempat' => $input['tempat'],
+			'tanggal' => "0000-00-01",
+			'jam' => "00:00:01",
+			'tempat' => "belum ada",
 			'file_proposal' => $input['file_proposal'],
 			'sk_tim' => $input['sk_tim'],
 			'persetujuan' => $input['persetujuan'],

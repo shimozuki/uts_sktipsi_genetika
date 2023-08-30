@@ -52,24 +52,24 @@
                             <option value="">- Pilih Proposal -</option>
                         </select>
                     </div>
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label>Tanggal</label>
                                 <input type="date" name="tanggal" class="form-control">
                             </div>
-                        </div>
-                        <div class="col-md">
+                        </div> -->
+                        <!-- <div class="col-md">
                             <div class="form-group">
                                 <label>Jam</label>
                                 <input type="time" name="jam" class="form-control">
                             </div>
                         </div>
-                    </div>
-                    <div class="form-group">
+                    </div> -->
+                    <!-- <div class="form-group">
                         <label>Tempat</label>
                         <textarea name="tempat" rows="3" class="form-control" placeholder="Masukkan Tempat Seminar"></textarea>
-                    </div>
+                    </div> -->
                     <div class="form-group">
                         <label>Persetujuan</label>
                         <input type="file" class="form-control" name="pilih-persetujuan" accept="application/pdf">

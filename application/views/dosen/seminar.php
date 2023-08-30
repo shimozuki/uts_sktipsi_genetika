@@ -198,7 +198,7 @@
                 var generate = 1;
 
                 $.ajax({
-                    url: '<?php echo base_url("Dosen/generateseminar"); ?>',
+                    url: '<?php echo base_url("api/Dosen/generateseminar"); ?>',
                     type: 'POST',
                     data: { generate: generate },
                     dataType: 'json',
