@@ -15,6 +15,7 @@ class Seminar extends MY_Controller {
     	}
     	redirect(base_url('dosen/seminar'));
     }
+    
 
 }
 

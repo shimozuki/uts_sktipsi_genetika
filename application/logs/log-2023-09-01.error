@@ -1,0 +1,294 @@
+ERROR - 2023-09-01 01:47:50 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-01 01:47:50 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-01 01:47:50 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-01 01:47:50 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-01 01:47:55 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 01:47:56 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 01:54:26 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 01:54:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 01:54:43 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 01:59:20 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:00:25 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:04:19 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:04:33 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:04:33 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:05:58 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:05:58 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:05:59 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:07:59 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:07:59 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:07:59 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:08:01 --> 404 Page Not Found: api/Generateseminar/index
+ERROR - 2023-09-01 02:08:16 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:08:16 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:08:16 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:08:17 --> 404 Page Not Found: Seminar/generateseminar
+ERROR - 2023-09-01 02:08:26 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:08:26 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:08:26 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:08:28 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:10:50 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:10:51 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:10:51 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:10:52 --> 404 Page Not Found: Generateseminar/index
+ERROR - 2023-09-01 02:11:14 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:11:14 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:11:14 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:11:17 --> 404 Page Not Found: Generateseminar/index
+ERROR - 2023-09-01 02:14:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:14:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:14:42 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:14:44 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:16:40 --> 404 Page Not Found: dosen/Seminar/api
+ERROR - 2023-09-01 02:19:29 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:19:29 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:19:29 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:19:30 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:19:30 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:19:31 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:19:32 --> 404 Page Not Found: Seminar/generateseminar
+ERROR - 2023-09-01 02:19:46 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:19:46 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:19:47 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:20:15 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:20:15 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:20:15 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:20:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:20:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:20:42 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:21:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:21:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:21:37 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:22:45 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:22:45 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:22:46 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:29:18 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:29:18 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:29:18 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:30:11 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:30:11 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:30:11 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:30:13 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:30:20 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:30:29 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:31:30 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:31:30 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:31:34 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:31:44 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:31:44 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:31:44 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:31:45 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:33:41 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:33:41 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:33:41 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:33:42 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:34:05 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:34:05 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:34:06 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:34:07 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:34:10 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:35:18 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:35:18 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:35:19 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:35:43 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:35:43 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:35:43 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:35:45 --> 404 Page Not Found: Seminar/generateseminar
+ERROR - 2023-09-01 02:36:00 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:36:00 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:36:01 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:36:04 --> 404 Page Not Found: api/Semina/generateseminar
+ERROR - 2023-09-01 02:37:15 --> 404 Page Not Found: api/Semina/generateseminar
+ERROR - 2023-09-01 02:37:15 --> 404 Page Not Found: api/Semina/generateseminar
+ERROR - 2023-09-01 02:38:04 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:38:04 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:38:04 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:38:06 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:38:10 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:39:18 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:39:18 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:39:19 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:39:20 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:39:23 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:40:21 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:40:21 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:40:22 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:40:25 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:43:33 --> 404 Page Not Found: Seminar/index
+ERROR - 2023-09-01 02:43:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:43:37 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:43:37 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:43:38 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:43:39 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:43:39 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:44:02 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:44:20 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:44:20 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:44:20 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:44:21 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:44:33 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:44:33 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:44:33 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:44:35 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:45:04 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:45:04 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:45:04 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:45:05 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:46:44 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:47:05 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:47:06 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:47:06 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:47:08 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:47:10 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:47:14 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:48:02 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:48:02 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:48:02 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:48:05 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:48:07 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:48:09 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:48:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:48:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:48:36 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:48:38 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:49:02 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:49:02 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:49:02 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:49:04 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:49:31 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:49:31 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:49:31 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:49:32 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:49:47 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:49:52 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:49:52 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:49:52 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:49:57 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:50:20 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:50:23 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:50:23 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:50:23 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:50:29 --> Severity: Warning --> Undefined variable $seminar_proposal D:\xampp\htdocs\abbas\application\views\dosen\pencarian_mahasiswa.php 72
+ERROR - 2023-09-01 02:50:29 --> Severity: Warning --> Undefined variable $hasil_penelitian D:\xampp\htdocs\abbas\application\views\dosen\pencarian_mahasiswa.php 79
+ERROR - 2023-09-01 02:50:30 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:50:30 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:51:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:51:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:51:43 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_post" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:51:45 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:51:45 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:51:46 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_post" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:53:28 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:53:28 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:53:28 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:53:30 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Generate does not have a method "index_post" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:53:47 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:53:47 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:53:47 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:53:48 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Generate does not have a method "index_post" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:54:41 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:54:41 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:54:42 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:54:44 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Generate does not have a method "index_post" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:54:55 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:54:55 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:54:56 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:54:58 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Generate does not have a method "index_post" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:55:19 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Generate does not have a method "index_post" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:56:14 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:56:14 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:56:15 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:56:17 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:56:50 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:56:50 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:56:51 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:56:52 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:57:17 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:57:21 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:57:24 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Seminar does not have a method "index_get" D:\xampp\htdocs\abbas\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-01 02:57:26 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:57:26 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:57:27 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 02:57:33 --> 404 Page Not Found: dosen/Seminar/api
+ERROR - 2023-09-01 02:57:37 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:57:37 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 02:57:37 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:00:02 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:00:02 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:00:03 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:00:04 --> 404 Page Not Found: dosen/Api/seminar
+ERROR - 2023-09-01 03:00:16 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:00:16 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:00:17 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:00:17 --> 404 Page Not Found: dosen/Api/Seminar
+ERROR - 2023-09-01 03:02:58 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:02:58 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:02:58 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:03:01 --> 404 Page Not Found: dosen/Api/Seminar
+ERROR - 2023-09-01 03:03:07 --> 404 Page Not Found: dosen/Api/Seminar
+ERROR - 2023-09-01 03:03:10 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:03:10 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:03:10 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:03:13 --> 404 Page Not Found: dosen/Api/Seminar
+ERROR - 2023-09-01 03:04:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:04:42 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:04:42 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:04:44 --> 404 Page Not Found: dosen/Api/seminar
+ERROR - 2023-09-01 03:05:30 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:05:30 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:05:30 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:05:55 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:05:55 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:05:55 --> 404 Page Not Found: GetAllData/mahasiswa
+ERROR - 2023-09-01 03:05:56 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:05:59 --> 404 Page Not Found: GetAllData/mahasiswa
+ERROR - 2023-09-01 03:07:54 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:07:54 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:07:55 --> Severity: error --> Exception: Unmatched '}' D:\xampp\htdocs\abbas\application\controllers\Crud.php 39
+ERROR - 2023-09-01 03:07:55 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:07:56 --> Severity: error --> Exception: Unmatched '}' D:\xampp\htdocs\abbas\application\controllers\Crud.php 39
+ERROR - 2023-09-01 03:08:24 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:08:24 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:08:25 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:08:26 --> Severity: Warning --> Array to string conversion D:\xampp\htdocs\abbas\application\controllers\Crud.php 30
+ERROR - 2023-09-01 03:08:29 --> Severity: Warning --> Array to string conversion D:\xampp\htdocs\abbas\application\controllers\Crud.php 30
+ERROR - 2023-09-01 03:10:33 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:10:33 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:10:34 --> Severity: error --> Exception: Unclosed '{' on line 5 D:\xampp\htdocs\abbas\application\controllers\Crud.php 38
+ERROR - 2023-09-01 03:10:34 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:10:37 --> Severity: error --> Exception: Unclosed '{' on line 5 D:\xampp\htdocs\abbas\application\controllers\Crud.php 38
+ERROR - 2023-09-01 03:10:51 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:10:51 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:10:51 --> Severity: error --> Exception: Unclosed '{' on line 5 D:\xampp\htdocs\abbas\application\controllers\Crud.php 38
+ERROR - 2023-09-01 03:10:51 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:11:04 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:11:04 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:11:04 --> Severity: error --> Exception: Unclosed '{' on line 5 D:\xampp\htdocs\abbas\application\controllers\Crud.php 38
+ERROR - 2023-09-01 03:11:04 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:11:19 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:11:19 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:11:19 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:13:07 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:13:07 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:13:08 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:14:34 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:14:34 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:14:35 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:15:08 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:15:08 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:15:08 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:15:28 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:15:28 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:15:28 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:15:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:15:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:15:37 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:16:29 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:16:29 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:16:29 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:16:32 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:16:32 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:16:32 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-09-01 03:16:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:16:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-01 03:16:37 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32

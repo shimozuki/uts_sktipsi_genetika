@@ -195,19 +195,18 @@
 
     $(document).ready(function() {
             $('#generateButton').click(function() {
-                var generate = 1;
 
                 $.ajax({
-                    url: '<?php echo base_url("api/Dosen/generateseminar"); ?>',
+                    url: base_url + 'generateseminar',
                     type: 'POST',
-                    data: { generate: generate },
                     dataType: 'json',
                     success: function(response) {
                         if (response.status === 'success') {
-                            alert(response.message);
+                            alert('Success Generate');
                             // Handle success actions here
+                            location.reload();
                         } else {
-                            alert(response.message);
+                            alert('error');
                             // Handle error actions here
                         }
                     },
