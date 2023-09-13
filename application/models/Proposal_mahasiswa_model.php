@@ -47,13 +47,14 @@ class Proposal_mahasiswa_model extends CI_Model
 
     public function create($input)
     {
+        // $this->db->beginTransaction();
+
         $data = [
             'mahasiswa_id' => $input['mahasiswa_id'],
             'judul' => $input['judul'],
             'ringkasan' => $input['ringkasan'],
             'dosen_id' => $input['dosen_id'],
             'dosen2_id' => $input['dosen2_id'],
-            'dosen_penguji_id' => $input['dosen_penguji_id']
         ];
 
         $validate = $this->app->validate($data);
@@ -61,12 +62,41 @@ class Proposal_mahasiswa_model extends CI_Model
         if ($validate === true) {
             $this->db->insert($this->table, $data);
             $data_id = $this->db->insert_id();
+
+            $seminar = [
+                'proposal_mahasiswa_id' => $data_id,
+                'file_proposal' => $input['file_proposal'],
+                'persetujuan' => $input['persetujuan'],
+            ];
+            
+            $file_nama = date('Ymdhis') . '.pdf';
+
+			// upload base64 file_proposal
+			$file_proposal_file = explode(';base64,', $seminar['file_proposal'])[1];
+			file_put_contents(FCPATH . 'cdn/vendor/file_proposal/' . $file_nama, base64_decode($file_proposal_file));
+			$seminar['file_proposal'] = $file_nama;
+
+            $persetujuan_file = explode(';base64,', $seminar['persetujuan'])[1];
+			file_put_contents(FCPATH . 'cdn/vendor/persetujuan/' . $file_nama, base64_decode($persetujuan_file));
+			$seminar['persetujuan'] = $file_nama;
+
+            $tableName = 'seminar';
+            $this->db->insert($tableName, $seminar);
+
+            // $this->db->commit();
+
             $hasil = [
                 'error' => false,
                 'message' => "data berhasil ditambah",
                 'data_id' => $data_id
             ];
         } else {
+            // $this->db->rollBack();
+            // $hasil = [
+            //     'error' => true,
+            //     'message' => "Terjadi kesalahan dalam menambahkan data: ",
+            //     'data_id' => null
+            // ];
             $hasil = $validate;
         }
 

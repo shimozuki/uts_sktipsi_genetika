@@ -35,8 +35,6 @@
                         <th>Tempat</th>
                         <th>Persetujuan</th>
                         <th>File Proposal</th>
-                        <th>SK TIM Pembimbing & Penguji</th>
-                        <th>Bukti Konsultasi</th>
                         <th>Aksi</th>
                     </tr>
                 </thead>
@@ -122,18 +120,6 @@
                         }
                     },
                     {
-                        data: "sk_tim",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/sk_tim/' + data + '">' + data + '</a>';
-                        }
-                    },
-                    {
-                        data: "bukti_konsultasi",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/bukti_konsultasi/' + data + '">' + data + '</a>';
-                        }
-                    },
-                    {
                         data: null,
                         render: function(data) {
                             return `
@@ -172,7 +158,7 @@
             })
         })
 
-    })
+    });
 
     function getDataSelect() {
         $.ajax({

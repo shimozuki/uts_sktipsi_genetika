@@ -51,6 +51,17 @@
                         <label>Judul</label>
                         <input name="judul" placeholder="Masukkan Judul" autocomplete="off" type="text" class="form-control">
                     </div>
+                    <!-- <div class="form-group">
+                        <label>Dosen Pembimbing 1</label>
+                        <select name="topik" class="form-control">
+                            <option value="">- Pilih Dosen -</option>
+                            <option value="">- Pilih Dosen -</option>
+                            <option value="">- Pilih Dosen -</option>
+                            <option value="">- Pilih Dosen -</option>
+                            <option value="">- Pilih Dosen -</option>
+                            <option value="">- Pilih Dosen -</option>
+                        </select>
+                    </div> -->
                     <div class="form-group">
                         <label>Dosen Pembimbing 1</label>
                         <select name="dosen_id" class="form-control">
@@ -64,10 +75,14 @@
                         </select>
                     </div>
                     <div class="form-group">
-                        <label>Dosen Penguji</label>
-                        <select name="dosen_penguji_id" class="form-control">
-                            <option value="">- Pilih Dosen -</option>
-                        </select>
+                        <label>Persetujuan</label>
+                        <input type="file" class="form-control" name="pilih-persetujuan" accept="application/pdf">
+                        <input type="hidden" name="persetujuan">
+                    </div>
+                    <div class="form-group">
+                        <label>File Proposal</label>
+                        <input type="file" class="form-control" name="pilih-file_proposal" accept="application/pdf">
+                        <input type="hidden" name="file_proposal">
                     </div>
                     <div class="form-group">
                         <label>Ringkasan</label>
@@ -109,8 +124,14 @@
                         </select>
                     </div>
                     <div class="form-group">
-                        <label>Dosen Penguji</label>
+                        <label>Dosen Penguji1</label>
                         <select name="dosen_penguji_id" class="form-control">
+                            <option value="">- Pilih Dosen -</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Dosen Penguji1</label>
+                        <select name="dosen_penguji_2" class="form-control">
                             <option value="">- Pilih Dosen -</option>
                         </select>
                     </div>
@@ -283,6 +304,7 @@
             $('[name=dosen_id]').html(dosen);
             $('[name=dosen2_id]').html(dosen);
             $('[name=dosen_penguji_id]').html(dosen);
+            $('[name=dosen_penguji_2]').html(dosen);
         })
 
         $(document).on('submit', 'form#tambah', function(e) {

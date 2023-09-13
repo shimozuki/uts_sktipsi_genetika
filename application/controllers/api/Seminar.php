@@ -37,8 +37,4 @@ class Seminar extends REST_Controller
 		$response = $this->model->details($id);
 		return $this->response($response);
 	}
-
-	
-
-/* End of file Seminar.php */
-/* Location: ./application/controllers/api/Seminar.php */
+}

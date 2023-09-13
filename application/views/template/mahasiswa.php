@@ -56,7 +56,7 @@ foreach ($dataUser as $du) {
               <li class="nav-item">
                 <a class="nav-link" href="<?= base_url() ?>mahasiswa/seminar">
                   <i class="ni ni-books text-danger"></i>
-                  <span class="nav-link-text">Seminar Proposal</span>
+                  <span class="nav-link-text">Jadwal Seminar</span>
                 </a>
               </li>
               <!-- <li class="nav-item">
@@ -71,12 +71,12 @@ foreach ($dataUser as $du) {
                   <span class="nav-link-text">Seminar Akhir / Skripsi</span>
                 </a>
               </li>
-              <li class="nav-item">
+              <!-- <li class="nav-item">
                 <a class="nav-link" href="<?= base_url() ?>mahasiswa/hasilkegiatan">
                   <i class="fa fa-crown text-warning"></i>
                   <span class="nav-link-text">HK3</span>
                 </a>
-              </li> 
+              </li>  -->
             <?php } ?>
           </ul>
         </div>

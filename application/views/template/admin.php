@@ -89,24 +89,24 @@
                 <span class="nav-link-text">Seminar Proposal</span>
               </a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link" href="<?= base_url() ?>admin/penelitian">
                 <i class="ni ni-bulb-61 text-purple"></i>
                 <span class="nav-link-text">Seminar Hasil Penelitian</span>
               </a>
-            </li>
+            </li> -->
             <li class="nav-item">
               <a class="nav-link" href="<?= base_url() ?>admin/skripsi">
                 <i class="fa fa-list text-primary"></i>
                 <span class="nav-link-text">Seminar Akhir / Skripsi</span>
               </a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link" href="<?= base_url() ?>admin/hasilkegiatan">
                 <i class="fa fa-crown text-warning"></i>
                 <span class="nav-link-text">HK3</span>
               </a>
-            </li>
+            </li> -->
             <li class="nav-item">
               <a class="nav-link" href="<?= base_url() ?>admin/report">
                 <i class="fa fa-book-open text-danger"></i>

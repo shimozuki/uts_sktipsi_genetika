@@ -193,11 +193,11 @@
             if ($(this).data('status') == 1) {
                 $("#wadah_jadwal").html('')
             } else {
-                $("#wadah_jadwal").html('<input name="deadline_skripsi" type="text" class="form-control dateTime" placeholder="Masukkan Deadline Skripsi" readonly required>')
-                $(".dateTime").flatpickr({
-                    enableTime: true,
-                    dateFormat: "Y-m-d H:i",
-                });
+                // $("#wadah_jadwal").html('<input name="deadline_skripsi" type="text" class="form-control dateTime" placeholder="Masukkan Deadline Skripsi" readonly>')
+                // $(".dateTime").flatpickr({
+                //     enableTime: true,
+                //     dateFormat: "Y-m-d H:i",
+                // });
             }
         })
 
@@ -206,8 +206,7 @@
             $(".btn-konfirmasi").attr('disabled', true).html('Loading...')
             if ($('form#setujui .status').val() != 1) {
                 if ($("form#setujui input[name=deadline_skripsi]").val() == "") {
-                    alert('Harap Isi Deadline Skripsi Terlebih Dahulu')
-                    $(".btn-konfirmasi").attr('disabled', false).html('Konfirmasi')
+                    action()
                 } else {
                     action()
                 }

@@ -19,12 +19,13 @@ class Dashboard extends MY_Controller
     {
         $cek = $this->db->get_where('skripsi', array('mahasiswa_id' => $id))->num_rows();
         if ($cek == 0) {
-            $this->db->where('id', $id);
-            $this->db->update('mahasiswa', array('status' => '0'));
+            // $this->db->where('id', $id);
+            // $this->db->update('mahasiswa', array('status' => '0'));
 
-            $this->db->where('mahasiswa_id', $id);
-            $this->db->update('proposal_mahasiswa', array('deadline' => null, 'status' => '0'));
-            echo json_encode('waktu habis');
+            // $this->db->where('mahasiswa_id', $id);
+            // $this->db->update('proposal_mahasiswa', array('deadline' => null, 'status' => '0'));
+            // echo json_encode('waktu habis');
+            echo json_encode('aman');
         } else {
             echo json_encode('aman');
         }

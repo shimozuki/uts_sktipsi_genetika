@@ -15,9 +15,7 @@ class Seminar_model extends CI_Model
 			seminar.jam,
 			seminar.tempat,
 			seminar.file_proposal,
-			seminar.bukti_konsultasi,
 			seminar.persetujuan,
-			seminar.sk_tim,
 			proposal_mahasiswa_v.judul as proposal_mahasiswa_judul,
 			proposal_mahasiswa_v.nama_mahasiswa,
 			proposal_mahasiswa_v.nim,
@@ -29,7 +27,7 @@ class Seminar_model extends CI_Model
 		$this->db->join('hasil_seminar', 'hasil_seminar.seminar_id = seminar.id', 'left');
 		$this->db->join('proposal_mahasiswa_v', 'proposal_mahasiswa_v.id = seminar.proposal_mahasiswa_id', 'left');
 
-		if ($input['mahasiswa_id']) {
+		if ($input['mahasiswa_id'] != null) {
 			$this->db->where('proposal_mahasiswa_v.mahasiswa_id', $input['mahasiswa_id']);
 		}
 
@@ -111,8 +109,6 @@ class Seminar_model extends CI_Model
 			seminar.tempat,
 			seminar.persetujuan,
 			seminar.file_proposal,
-			seminar.sk_tim,
-			seminar.bukti_konsultasi,
 			proposal_mahasiswa.judul as proposal_mahasiswa_judul,
 			mahasiswa.id as mahasiswa_id,
 			mahasiswa.nama as mahasiswa_nama,

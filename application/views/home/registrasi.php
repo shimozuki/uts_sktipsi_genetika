@@ -14,7 +14,7 @@
                 <div class="col-md-6">
                     <div class="form-group">
                         <label>NIM <span class="text-danger">*</span></label>
-                        <input id="nim" type="text" name="nim" autocomplete="off" autofocus="true" class="form-control" placeholder="Masukkan NIM ( Kombinasi angka dan huruf 9 digit )" maxlength="9">
+                        <input id="nim" type="text" name="nim" autocomplete="off" autofocus="true" class="form-control" placeholder="Masukkan NIM ( Harus 10 digit )" maxlength="10">
                     </div>
                     <div class="form-group">
                         <label>Nama <span class="text-danger">*</span></label>
@@ -74,11 +74,11 @@
                     </div>
                     <div class="form-group">
                         <label>Password <span class="text-danger">*</span></label>
-                        <input type="text" class="form-control" name="password" autocomplete="off" placeholder="Masukkan Password">
+                        <input type="password" class="form-control" name="password" autocomplete="off" placeholder="Masukkan Password">
                     </div>
                     <div class="form-group">
                         <label>Password (Konfirmasi) <span class="text-danger">*</span></label>
-                        <input type="text" class="form-control" name="password_konfirmasi" autocomplete="off" placeholder="Masukkan Password (Konfirmasi)">
+                        <input type="password" class="form-control" name="password_konfirmasi" autocomplete="off" placeholder="Masukkan Password (Konfirmasi)">
                     </div>
                     <div class="form-group">
                         <label>Foto Mahasiswa</label>
@@ -119,16 +119,16 @@
 
     $(document).ready(function() {
         $("#nim").keyup(function() {
-            if ($(this).val().length == 9) {
+            if ($(this).val().length == 10) {
                 var inp = $(this).val();
-                if (/[a-zA-Z_ ]/.test(inp) && /[0-9-_ ]/.test(inp)) {
+                if (/[0-9]/.test(inp)) {
                     $(".btn-act").attr('disabled', false)
                 } else {
                     notif('Mohon masukkan dengan format yang benar, harus ada angka dan huruf', 'error', true);
                     $(".btn-act").attr('disabled', true)
                 }
             } else {
-                notif('Silahkan Masukkan 9 digit', 'info', true);
+                notif('Silahkan Masukkan 10 digit', 'info', true);
                 $(".btn-act").attr('disabled', true)
             }
         })

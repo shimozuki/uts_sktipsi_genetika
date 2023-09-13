@@ -12,7 +12,7 @@ foreach ($dataUser as $du) {
 
 <?php $this->app->section() ?>
 <?php if ($verifikasi == 1) { ?>
-    <div class="card">
+    <!-- <div class="card">
         <div class="card-header">
             <h5 class="card-title text-uppercase text-muted mb-0">Deadline Proposal Sampai Skripsi</h5>
         </div>
@@ -33,7 +33,7 @@ foreach ($dataUser as $du) {
                 </table>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="card card-stats">
         <div class="card-body">
             <div class="row">

@@ -10,10 +10,10 @@
                 <div class="card-title">Data Seminar</div>
             </div>
             <div class="col text-right">
-                <button class="btn btn-primary" type="button" data-toggle="modal" data-target="#tambah">
+                <!-- <button class="btn btn-primary" type="button" data-toggle="modal" data-target="#tambah">
                     <i class="fa fa-plus"></i>
                     Tambah
-                </button>
+                </button> -->
             </div>
         </div>
     </div>
@@ -28,8 +28,6 @@
                         <th>Tempat</th>
                         <th>Persetujuan</th>
                         <th>File Proposal</th>
-                        <th>SK TIM Pembimbing & Penguji</th>
-                        <th>Bukti Konsultasi</th>
                         <th>Aksi</th>
                     </tr>
                 </thead>
@@ -204,18 +202,6 @@
                         }
                     },
                     {
-                        data: "sk_tim",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/sk_tim/' + data + '">' + data + '</a>';
-                        }
-                    },
-                    {
-                        data: "bukti_konsultasi",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/bukti_konsultasi/' + data + '">' + data + '</a>';
-                        }
-                    },
-                    {
                         data: null,
                         render: function(data) {
                             return `
@@ -223,9 +209,7 @@
                             <a href="` + base_url + `mahasiswa/seminar/detail/` + data.id + `" class="btn btn-sm btn-success">
                                 <i class="fa fa-search"></i>
                             </a>
-                            <button class="btn btn-danger btn-hapus btn-sm" type="button" data-toggle="modal" data-target="#hapus" data-id="` + data.id + `">
-                                <i class="fa fa-trash"></i>
-                            </button>
+                           
                         </div>
                         `;
                         }
