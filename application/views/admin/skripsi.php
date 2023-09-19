@@ -30,6 +30,7 @@
             <span class="badge badge-success"><i class="fa fa-check"></i> Disetujui</span>
             <span class="badge badge-danger ml-3"><i class="fa fa-times"></i> Belum/Tidak Disetujui</span>
         </div>
+        <button type="button" id="generateButton" class="btn btn-primary">Generate Jadwal</button>
     </div>
     <div class="card-body">
         <div class="table-responsive">
@@ -40,11 +41,11 @@
                         <th>Status</th>
                         <th>Judul Skripsi</th>
                         <th>Dosen Pembimbing</th>
-                        <th>Dosen Penguji</th>
+                        <th>Dosen Penguji 1</th>
+                        <th>Dosen Penguji 2</th>
                         <th>Jadwal Skripsi</th>
                         <th>Persetujuan</th>
                         <th>File Skripsi</th>
-                        <th>SK Tim</th>
                         <th>Bukti Konsultasi</th>
                         <th>Aksi</th>
                     </tr>
@@ -225,7 +226,10 @@
                         data: "nama_penguji"
                     },
                     {
-                        data: "jadwal_skripsi"
+                        data: null,
+                        render: function(data) {
+                            return data.tanggal + ' ' + data.jam
+                        }
                     },
                     {
                         data: "persetujuan",
@@ -237,18 +241,6 @@
                         data: "file_skripsi",
                         render: function(data) {
                             return '<a href="' + base_url + 'cdn/vendor/skripsi/file_skripsi/' + data + '">' + data + '</a>';
-                        }
-                    },
-                    {
-                        data: "sk_tim",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/skripsi/sk_tim/' + data + '">' + data + '</a>';
-                        }
-                    },
-                    {
-                        data: "bukti_konsultasi",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/skripsi/bukti_konsultasi/' + data + '">' + data + '</a>';
                         }
                     },
                     {
@@ -401,6 +393,30 @@
             }
         })
     })
+    $(document).ready(function() {
+            $('#generateButton').click(function() {
+
+                $.ajax({
+                    url: base_url + 'generateseminar',
+                    type: 'POST',
+                    dataType: 'json',
+                    success: function(response) {
+                        if (response.status === 'success') {
+                            alert('Success Generate');
+                            // Handle success actions here
+                            location.reload();
+                        } else {
+                            alert('error');
+                            // Handle error actions here
+                        }
+                    },
+                    error: function(xhr, textStatus, errorThrown) {
+                        alert('AJAX request failed.');
+                        console.log(xhr.responseText);
+                    }
+                });
+            });
+        });
 </script>
 <?php $this->app->endSection('script') ?>
 

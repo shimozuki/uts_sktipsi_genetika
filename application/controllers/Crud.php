@@ -34,6 +34,25 @@ class Crud extends CI_Controller
 			echo json_encode($response);
 		}
 	}
+	public function updateSkripsi()
+	{
+		// Check if the request is an AJAX request
+		if ($this->input->is_ajax_request()) {
+
+			// Call the stored procedure using the 'generate' parameter
+			$this->db->query("CALL ScheduleSkripsi()");
+
+			// Send a response back to the AJAX request
+			$response = array('status' => 'success', 'message' => 'Stored procedure executed successfully.');
+			echo json_encode($response);
+		} else {
+			// If not an AJAX request, show an error message or redirect
+			$response = array('status' => 'error', 'message' => 'Invalid request.');
+			// $this->response($response, 400); // Send response without echoing JSON
+			echo json_encode($response);
+		}
+	}
+	
 }
 
 

@@ -86,3 +86,7 @@ ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "dosen
 ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 21
 ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 25
 ERROR - 2023-09-19 18:49:01 --> 404 Page Not Found: api/Kopetensi/index
+ERROR - 2023-09-19 18:56:26 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:56:26 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:56:30 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:56:30 --> 404 Page Not Found: Cdn/vendor
