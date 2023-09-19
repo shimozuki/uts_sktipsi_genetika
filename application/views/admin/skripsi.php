@@ -19,18 +19,14 @@
             <div class="col">
                 <div class="card-title">Seminar Akhir / Skripsi</div>
             </div>
-            <!-- <div class="col text-right">
-                <button class="btn btn-primary" type="button" data-toggle="modal" data-target="#tambah">
-                    <i class="fa fa-plus"></i>
-                    Tambah
-                </button>
-            </div> -->
+            <div class="col text-right">
+            <button type="button" id="generateButton" class="btn btn-primary">Generate Jadwal</button>
+            </div>
         </div>
         <div class="card-tools mt-2">
             <span class="badge badge-success"><i class="fa fa-check"></i> Disetujui</span>
             <span class="badge badge-danger ml-3"><i class="fa fa-times"></i> Belum/Tidak Disetujui</span>
         </div>
-        <button type="button" id="generateButton" class="btn btn-primary">Generate Jadwal</button>
     </div>
     <div class="card-body">
         <div class="table-responsive">
