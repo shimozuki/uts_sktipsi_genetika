@@ -36,14 +36,6 @@
 						<th class="file_proposal">-</th>
 					</tr>
 					<tr>
-						<td>SK TIM Pembimbing & Penguji</td>
-						<th class="sk_tim">-</th>
-					</tr>
-					<tr>
-						<td>Bukti Konsultasi</td>
-						<th class="bukti_konsultasi">-</th>
-					</tr>
-					<tr>
 						<td>Berita Acara</td>
 						<th class="berita_acara"></th>
 					</tr>
@@ -55,6 +47,7 @@
 						<td>Status</td>
 						<th>
 							<select name="status" class="form-control">
+								<option value="0">Belum Ujian</option>
 								<option value="1">Lanjut (Sempurna)</option>
 								<option value="2">Lanjut (Perbaikan)</option>
 								<option value="3">Ditolak/Belum Dinilai</option>
@@ -95,8 +88,6 @@
 					$('.tempat').html(res.data.tempat);
 					$('.persetujuan').html(`<a href="` + base_url + `cdn/vendor/persetujuan/` + res.data.persetujuan + `">` + res.data.persetujuan + `</a>`);
 					$('.file_proposal').html(`<a href="` + base_url + `cdn/vendor/file_proposal/` + res.data.file_proposal + `">` + res.data.file_proposal + `</a>`);
-					$('.sk_tim').html(`<a href="` + base_url + `cdn/vendor/sk_tim/` + res.data.sk_tim + `">` + res.data.sk_tim + `</a>`);
-					$('.bukti_konsultasi').html(`<a href="` + base_url + `cdn/vendor/bukti_konsultasi/` + res.data.bukti_konsultasi + `">` + res.data.bukti_konsultasi + `</a>`);
 					$('.berita_acara').html((res.data.hasil.berita_acara) ? `<a href="` + base_url + `cdn/vendor/berita_acara/` + res.data.hasil.berita_acara + `">` + res.data.hasil.berita_acara + `</a>` : '<input type="file" accept="application/pdf" class="form-control" name="pilih-berita_acara">');
 					$('.masukan').html((res.data.hasil.masukan) ? `<a href="` + base_url + `cdn/vendor/masukan/` + res.data.hasil.masukan + `">` + res.data.hasil.masukan + `</a>` : '<input type="file" accept="application/pdf" class="form-control" name="pilih-masukan">');
 					$('[name=status]').val(res.data.hasil.status);

@@ -26,6 +26,12 @@ class Dosen extends REST_Controller
         return $this->response($response);
     }
 
+    public function kopetensi()
+    {
+        $response = $this->model->kopetensi();
+        return $this->response($response);
+    }
+
     public function create_post()
     {
         $response = $this->model->create($this->input->post());

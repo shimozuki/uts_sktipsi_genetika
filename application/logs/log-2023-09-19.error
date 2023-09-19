@@ -1,0 +1,88 @@
+ERROR - 2023-09-19 03:52:13 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 03:52:13 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 03:52:13 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 03:52:13 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 03:52:13 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 03:52:13 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 03:52:16 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Konsultasi_model.php 41
+ERROR - 2023-09-19 03:52:17 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 30
+ERROR - 2023-09-19 04:06:28 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Konsultasi_model.php 41
+ERROR - 2023-09-19 04:06:28 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 30
+ERROR - 2023-09-19 04:06:46 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Konsultasi_model.php 41
+ERROR - 2023-09-19 04:06:46 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 30
+ERROR - 2023-09-19 04:06:52 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Konsultasi_model.php 41
+ERROR - 2023-09-19 04:06:52 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 30
+ERROR - 2023-09-19 04:07:12 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Konsultasi_model.php 41
+ERROR - 2023-09-19 04:07:12 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 30
+ERROR - 2023-09-19 04:31:18 --> Severity: Warning --> Undefined array key "dosen_id" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-09-19 04:31:18 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-09-19 04:31:18 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-09-19 04:31:18 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 30
+ERROR - 2023-09-19 04:31:24 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Konsultasi_model.php 41
+ERROR - 2023-09-19 04:31:24 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 30
+ERROR - 2023-09-19 04:31:27 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 04:31:27 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 04:31:27 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 04:31:27 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 04:31:27 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 04:31:27 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 04:31:27 --> Severity: Warning --> Undefined array key "dosen_id" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-09-19 04:31:27 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-09-19 04:31:27 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-09-19 04:31:29 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 04:31:29 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 04:31:29 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 04:31:29 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 04:31:29 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 04:31:29 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 17:56:23 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 17:56:23 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 17:56:23 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 17:56:23 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:01:50 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:01:50 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:07 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:07 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:29 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:29 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:43 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:43 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:43 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:04:43 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:04:43 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:04:43 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:04:46 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:46 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:46 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:04:46 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:04:46 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:04:46 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:04:48 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:48 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:58 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:04:58 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:05:12 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:05:12 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:05:52 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:05:52 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-19 18:06:59 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Konsultasi_model.php 41
+ERROR - 2023-09-19 18:06:59 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 30
+ERROR - 2023-09-19 18:12:00 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:12:00 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:12:00 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:12:00 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:12:04 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:12:04 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:12:04 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:12:04 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:12:04 --> Severity: Warning --> Undefined array key "dosen_id" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-09-19 18:12:04 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-09-19 18:12:04 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "dosen_id" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-09-19 18:16:25 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-09-19 18:49:01 --> 404 Page Not Found: api/Kopetensi/index

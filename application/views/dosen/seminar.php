@@ -19,7 +19,7 @@
 <div class="card">
     <div class="card-header">
         <div class="card-title">Data Seminar</div>
-        <button type="button" id="generateButton" class="btn btn-primary">Generate Seminar</button>
+        <!-- <button type="button" id="generateButton" class="btn btn-primary">Generate Seminar</button> -->
     </div>
     <div class="card-body">
         <div class="table-responsive">

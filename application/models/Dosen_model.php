@@ -8,12 +8,29 @@ class Dosen_model extends CI_Model
 
     public function get()
     {
-        $this->db->select("*");
-        $dosen = $this->db->get($this->table)->result_array();
+        $this->db->select("dosen.*, kompetensi.*");
+        $this->db->from($this->table);
+        $this->db->join('kompetensi', 'dosen.id_kopetensi = kompetensi.id_kopetensi', 'inner');
+        $dosen = $this->db->get()->result_array();
+        // $this->db->select("*");
+        // $dosen = $this->db->get($this->table)->result_array();
 
         $hasil['error'] = false;
         $hasil['message'] = ($dosen) ? "data berhasil ditemukan" : "data tidak tersedia";
         $hasil['data'] = $dosen;
+
+        return $hasil;
+    }
+
+    public function kopetensi()
+    {
+        $this->db->select('*');
+        $this->db->from('kompetensi');
+        $kopetensi = $this->db->get()->result_array();
+
+        $hasil['error'] = false;
+        $hasil['message'] = ($kopetensi) ? "data berhasil ditemukan" : "data tidak tersedia";
+        $hasil['data'] = $kopetensi;
 
         return $hasil;
     }

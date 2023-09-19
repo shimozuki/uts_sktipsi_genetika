@@ -1,0 +1,12 @@
+1. Super Admin
+User	: admin@admin.com
+Pass	: 20201015
+
+2. Dosen
+User	: dosen@gmail.com | ateng@gmail.com  | nina@gmail.com
+Pass	: 20201011	  | 20201020	     | 20201019
+
+3. Mahasiswa
+User	: mahasiswa@gmail.com
+Pass	: mahasiswa
+NIM	: 20170808 (Untuk Cek)

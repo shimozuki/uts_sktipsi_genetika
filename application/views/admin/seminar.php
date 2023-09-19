@@ -16,6 +16,7 @@
 <div class="card">
     <div class="card-header">
         <div class="card-title">Data Seminar</div>
+        <button type="button" id="generateButton" class="btn btn-primary">Generate Seminar</button>
     </div>
     <div class="card-body">
         <div class="table-responsive">
@@ -31,8 +32,6 @@
                         <th>Tempat</th>
                         <th>Persetujuan</th>
                         <th>File Proposal</th>
-                        <th>SK TIM Pembimbing & Penguji</th>
-                        <th>Bukti Konsultasi</th>
                         <th>Aksi</th>
                     </tr>
                 </thead>
@@ -130,18 +129,6 @@
                         }
                     },
                     {
-                        data: "sk_tim",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/sk_tim/' + data + '">' + data + '</a>';
-                        }
-                    },
-                    {
-                        data: "bukti_konsultasi",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/bukti_konsultasi/' + data + '">' + data + '</a>';
-                        }
-                    },
-                    {
                         data: null,
                         render: function(data) {
                             return `
@@ -229,6 +216,30 @@
     function disableBtn() {
         $(".btn-act").attr('disabled', true).html('Loading ...')
     }
+    $(document).ready(function() {
+            $('#generateButton').click(function() {
+
+                $.ajax({
+                    url: base_url + 'generateseminar',
+                    type: 'POST',
+                    dataType: 'json',
+                    success: function(response) {
+                        if (response.status === 'success') {
+                            alert('Success Generate');
+                            // Handle success actions here
+                            location.reload();
+                        } else {
+                            alert('error');
+                            // Handle error actions here
+                        }
+                    },
+                    error: function(xhr, textStatus, errorThrown) {
+                        alert('AJAX request failed.');
+                        console.log(xhr.responseText);
+                    }
+                });
+            });
+        });
 </script>
 <?php $this->app->endSection('script') ?>
 

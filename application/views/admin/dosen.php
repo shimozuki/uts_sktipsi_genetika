@@ -27,6 +27,7 @@
 						<th>Nama</th>
 						<th>Nomor Telepon</th>
 						<th>Email</th>
+						<th>Kopentensi</th>
 						<th>Aksi</th>
 					</tr>
 				</thead>
@@ -54,6 +55,12 @@
 					</div>
 					<div class="form-group">
 						<label>Email</label><input type="email" class="form-control" name="email" placeholder="Masukkan Email" autocomplete="off">
+					</div>
+					<div class="form-group">
+						<label>Kopetensi</label>
+						<select name="id_kopetensi" class="form-control">
+							<option value="">- Pilih Kopetensi -</option>
+						</select>
 					</div>
 				</div>
 				<div class="modal-footer">
@@ -156,6 +163,9 @@
 						}
 					},
 					{
+						data: "nama_kopetensi",
+					},
+					{
 						data: null,
 						render: function(data) {
 							return `
@@ -196,9 +206,16 @@
 				]
 			})
 		}
-
 		show();
-
+		call('api/dosen/kopetensi').done(function(req) {
+			dosen = '<option value="">- Pilih Kopentensi -</option>';
+			if (req.data) {
+				$.each(req.data, function(index, obj) {
+					dosen += '<option value="' + obj.id_kopentensi + '">' + obj.nama_kopetensi + '</option>';
+				});
+				$('[name=id_kopetensi]').html(dosen); // Mengisi dropdown dengan pilihan-pilihan kopetensi
+			}
+		});
 		$(document).on('submit', 'form#tambah', function(e) {
 			e.preventDefault();
 			call('api/dosen/create', $(this).serialize()).done(function(req) {
