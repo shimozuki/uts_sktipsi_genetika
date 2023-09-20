@@ -34,7 +34,7 @@ class Skripsi_model extends CI_Model
 
     public function admin_index($input)
     {
-        $skripsi = $this->db->get('skripsi_vl')->result_array();
+        $skripsi = $this->db->get('skripsi')->result_array();
 
         $hasil = [
             'error' => false,

@@ -1,7 +1,8 @@
-<?php 
-defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class Prodi_model extends CI_Model {
+class Prodi_model extends CI_Model
+{
 
     protected $table = "prodi";
 
@@ -66,12 +67,12 @@ class Prodi_model extends CI_Model {
 
         $kondisi = ['prodi.id' => $id];
         $cek = $this->db->get_where($this->table, $kondisi)->num_rows();
-        
+
         if ($cek > 0) {
             $validate = $this->app->validate($data);
-    
+
             if ($validate === true) {
-                $cek = $this->db->get_where($this->table, ['prodi.id <>' => $id,'prodi.kode' => $data['kode']])->num_rows();
+                $cek = $this->db->get_where($this->table, ['prodi.id <>' => $id, 'prodi.kode' => $data['kode']])->num_rows();
                 if ($cek > 0) {
                     $hasil = [
                         'error' => true,
@@ -119,6 +120,7 @@ class Prodi_model extends CI_Model {
         return $hasil;
     }
 
+    
 }
 
 /* End of file Prodi_model.php */

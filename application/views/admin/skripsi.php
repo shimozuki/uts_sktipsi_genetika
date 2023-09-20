@@ -34,6 +34,8 @@
                 <thead>
                     <tr>
                         <th>No</th>
+                        <th>NIM</th>
+                        <th>Nama Mahasiswa</th>
                         <th>Status</th>
                         <th>Judul Skripsi</th>
                         <th>Dosen Pembimbing</th>
@@ -42,7 +44,7 @@
                         <th>Jadwal Skripsi</th>
                         <th>Persetujuan</th>
                         <th>File Skripsi</th>
-                        <th>Bukti Konsultasi</th>
+                        <th>Ruangan</th>
                         <th>Aksi</th>
                     </tr>
                 </thead>
@@ -185,11 +187,18 @@
                     },
                     "dataSrc": "data"
                 },
-                "columns": [{
+                "columns": [
+                    {
                         data: null,
                         render: function(data, type, row, meta) {
                             return meta.row + meta.settings._iDisplayStart + 1;
                         }
+                    },
+                    {
+                        data: "nim"
+                    },
+                    {
+                        data: "siswa"
                     },
                     {
                         data: null,
@@ -216,10 +225,13 @@
                         data: "judul_skripsi"
                     },
                     {
-                        data: "nama_pembimbing"
+                        data: "dosen_pembimbing"
                     },
                     {
-                        data: "nama_penguji"
+                        data: "penguji_1"
+                    },
+                    {
+                        data: "penguji_2"
                     },
                     {
                         data: null,
@@ -238,6 +250,9 @@
                         render: function(data) {
                             return '<a href="' + base_url + 'cdn/vendor/skripsi/file_skripsi/' + data + '">' + data + '</a>';
                         }
+                    },
+                    {
+                        data: "tempat"
                     },
                     {
                         data: null,

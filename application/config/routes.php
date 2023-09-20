@@ -73,5 +73,7 @@ $route['update-home-template'] = 'Home/update_home_template';
 $route['generateseminar'] = 'Crud/updateSeminarSchedule';
 $route['generateskripsi'] = 'Crud/updateSkripsi';
 
+$route['kompetensi/getKompetensi'] = 'KompetensiController/getKompetensi';
+
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;

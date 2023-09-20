@@ -58,8 +58,8 @@
 					</div>
 					<div class="form-group">
 						<label>Kopetensi</label>
-						<select name="id_kopetensi" class="form-control">
-							<option value="">- Pilih Kopetensi -</option>
+						<select name="id_kompetensi" id="id_kompetensi" class="form-control">
+							<option value="">- Pilih Kompetensi -</option>
 						</select>
 					</div>
 				</div>
@@ -207,15 +207,32 @@
 			})
 		}
 		show();
-		call('api/dosen/kopetensi').done(function(req) {
-			dosen = '<option value="">- Pilih Kopentensi -</option>';
-			if (req.data) {
-				$.each(req.data, function(index, obj) {
-					dosen += '<option value="' + obj.id_kopentensi + '">' + obj.nama_kopetensi + '</option>';
-				});
-				$('[name=id_kopetensi]').html(dosen); // Mengisi dropdown dengan pilihan-pilihan kopetensi
-			}
+
+		$(document).ready(function() {
+			// Memuat data kompetensi saat halaman dimuat
+			$.ajax({
+				url: '<?php echo site_url("kompetensi/getKompetensi"); ?>',
+				type: 'GET',
+				dataType: 'json',
+				success: function(data) {
+					$.each(data, function(index, kompetensi) {
+						$('#id_kompetensi').append('<option value="' + kompetensi.id_kopetensi + '">' + kompetensi.nama_kopetensi + '</option>');
+					});
+				}
+			});
 		});
+
+		// call('api/dosen').done(function(req) {
+		// 	dosen = '<option value="">- Pilih Kopentensi -</option>';
+		// 	if (req.data) {
+		// 		$.each(req.data, function(index, obj) {
+		// 			dosen += '<option value="' + obj.id_kopentensi + '">' + obj.nama_kopetensi + '</option>';
+		// 		});
+		// 		$('[name=id_kopetensi]').html(dosen); // Mengisi dropdown dengan pilihan-pilihan kopetensi
+		// 	}
+		// 	// show();
+		// });
+
 		$(document).on('submit', 'form#tambah', function(e) {
 			e.preventDefault();
 			call('api/dosen/create', $(this).serialize()).done(function(req) {

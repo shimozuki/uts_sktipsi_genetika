@@ -1,0 +1,70 @@
+ERROR - 2023-09-20 03:26:01 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-20 03:26:01 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-20 03:26:01 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-20 03:26:01 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\skripsi\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-20 03:26:04 --> 404 Page Not Found: admin/Api/dosen
+ERROR - 2023-09-20 03:28:17 --> 404 Page Not Found: admin/Api/dosen
+ERROR - 2023-09-20 03:29:38 --> 404 Page Not Found: admin/Api/dosen
+ERROR - 2023-09-20 03:39:03 --> 404 Page Not Found: admin/Api/dosen
+ERROR - 2023-09-20 03:40:38 --> 404 Page Not Found: admin/Api/dosen
+ERROR - 2023-09-20 03:40:58 --> 404 Page Not Found: admin/Api/dosen
+ERROR - 2023-09-20 03:41:18 --> 404 Page Not Found: admin/Api/dosen
+ERROR - 2023-09-20 03:46:10 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Prodi does not have a method "index_get" C:\xampp\htdocs\skripsi\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-20 03:52:45 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Prodi does not have a method "index_get" C:\xampp\htdocs\skripsi\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-20 04:03:11 --> 404 Page Not Found: KompetensiController/index
+ERROR - 2023-09-20 04:05:35 --> 404 Page Not Found: Kompetensi/index
+ERROR - 2023-09-20 04:06:06 --> 404 Page Not Found: Kompetensi/index
+ERROR - 2023-09-20 04:06:28 --> Severity: Warning --> Undefined property: Kompetensi::$model C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:06:28 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:07:39 --> Severity: Warning --> Undefined property: Kompetensi::$model C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:07:39 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:07:40 --> Severity: Warning --> Undefined property: Kompetensi::$model C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:07:40 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:08:13 --> Severity: Warning --> Undefined property: Kompetensi::$model C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:08:13 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:08:24 --> Severity: Warning --> Undefined property: Kompetensi::$model C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:08:24 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:08:34 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:08:34 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:08:37 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:08:37 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:08:37 --> Severity: Warning --> Undefined property: Kompetensi::$model C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:08:37 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Kompetensi.php 12
+ERROR - 2023-09-20 04:10:53 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:10:53 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:10:54 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Dosen does not have a method "index_get" C:\xampp\htdocs\skripsi\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-20 04:11:24 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:11:24 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:11:25 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Dosen does not have a method "index_get" C:\xampp\htdocs\skripsi\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-20 04:12:06 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Dosen does not have a method "index_get" C:\xampp\htdocs\skripsi\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-20 04:12:11 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:12:11 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:12:11 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Dosen does not have a method "index_get" C:\xampp\htdocs\skripsi\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-20 04:12:34 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:12:34 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:12:35 --> Severity: Warning --> Undefined property: Dosen::$Kompetensi_model C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:12:35 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:12:35 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Dosen does not have a method "index_get" C:\xampp\htdocs\skripsi\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-20 04:12:50 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:12:50 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:12:50 --> Severity: Warning --> Undefined property: Dosen::$Kompetensi_model C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:12:50 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:12:51 --> Severity: error --> Exception: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class Dosen does not have a method "index_get" C:\xampp\htdocs\skripsi\application\libraries\REST_Controller.php 742
+ERROR - 2023-09-20 04:13:27 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:13:27 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:13:27 --> Severity: Warning --> Undefined property: Dosen::$Kompetensi_model C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:13:27 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:13:27 --> Severity: Warning --> Undefined property: Dosen::$Kompetensi_model C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:13:27 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:14:45 --> Severity: Warning --> Undefined property: Dosen::$Kompetensi_model C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:14:45 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:14:45 --> Severity: Warning --> Undefined property: Dosen::$Kompetensi_model C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:14:45 --> Severity: error --> Exception: Call to a member function kopetensi() on null C:\xampp\htdocs\skripsi\application\controllers\api\Dosen.php 25
+ERROR - 2023-09-20 04:22:20 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:22:20 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:22:24 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:22:24 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:23:02 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:23:02 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:23:24 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 04:23:24 --> 404 Page Not Found: Cdn/vendor

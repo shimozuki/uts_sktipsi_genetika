@@ -21,20 +21,6 @@ class Dosen_model extends CI_Model
 
         return $hasil;
     }
-
-    public function kopetensi()
-    {
-        $this->db->select('*');
-        $this->db->from('kompetensi');
-        $kopetensi = $this->db->get()->result_array();
-
-        $hasil['error'] = false;
-        $hasil['message'] = ($kopetensi) ? "data berhasil ditemukan" : "data tidak tersedia";
-        $hasil['data'] = $kopetensi;
-
-        return $hasil;
-    }
-
     public function getById()
     {
         $dosen = $this->db->get_where($this->table, array('id' => $this->input->post('id')))->result();

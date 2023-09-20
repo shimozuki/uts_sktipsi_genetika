@@ -28,7 +28,8 @@ class Dosen extends REST_Controller
 
     public function kopetensi()
     {
-        $response = $this->model->kopetensi();
+        $this->load->model('Kompetensi_model');
+        $response = $this->Kompetensi_model->kopetensi();
         return $this->response($response);
     }
 
