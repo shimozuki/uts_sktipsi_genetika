@@ -51,6 +51,12 @@
                         <label>Judul</label>
                         <input name="judul" placeholder="Masukkan Judul" autocomplete="off" type="text" class="form-control">
                     </div>
+                    <div class="form-group">
+                        <label>Topik</label>
+                        <select name="id_kompetensie" id="id_kompetensi" class="form-control">
+                            <option value="">- Pilih Topik -</option>
+                        </select>
+                    </div>
                     <!-- <div class="form-group">
                         <label>Dosen Pembimbing 1</label>
                         <select name="topik" class="form-control">
@@ -112,6 +118,12 @@
                         <input name="judul" placeholder="Masukkan Judul" autocomplete="off" type="text" class="form-control">
                     </div>
                     <div class="form-group">
+						<label>Topik</label>
+						<select name="id_kompetensie" id="id_kompetensie" class="form-control">
+							<option value="">- Pilih Topik -</option>
+						</select>
+					</div>
+                    <div class="form-group">
                         <label>Dosen Pembimbing 1</label>
                         <select name="dosen_id" class="form-control">
                             <option value="">- Pilih Dosen -</option>
@@ -123,18 +135,18 @@
                             <option value="">- Pilih Dosen -</option>
                         </select>
                     </div>
-                    <div class="form-group">
+                    <!-- <div class="form-group">
                         <label>Dosen Penguji1</label>
                         <select name="dosen_penguji_id" class="form-control">
                             <option value="">- Pilih Dosen -</option>
                         </select>
-                    </div>
-                    <div class="form-group">
+                    </div> -->
+                    <!-- <div class="form-group">
                         <label>Dosen Penguji1</label>
                         <select name="dosen_penguji_2" class="form-control">
                             <option value="">- Pilih Dosen -</option>
                         </select>
-                    </div>
+                    </div> -->
                     <div class="form-group">
                         <label>Ringkasan</label>
                         <textarea name="ringkasan" rows="5" class="form-control" placeholder="Masukkan Ringkasan"></textarea>
@@ -293,6 +305,18 @@
         }
 
         show();
+        $(document).ready(function() {
+            $.ajax({
+                url: '<?php echo site_url("kompetensi/getKompetensi"); ?>',
+                type: 'GET',
+                dataType: 'json',
+                success: function(data) {
+                    $.each(data, function(index, kompetensi) {
+                        $('#id_kompetensi').append('<option value="' + kompetensi.id_kopetensi + '">' + kompetensi.nama_kopetensi + '</option>');
+                    });
+                }
+            });
+        });
 
         call('api/dosen').done(function(req) {
             dosen = '<option value="">- Pilih Dosen -</option>';
@@ -329,6 +353,25 @@
             $('form#edit [name=dosen2_id]').val($(this).data('dosen2_id'));
             $('form#edit [name=dosen_penguji_id]').val($(this).data('dosen_penguji_id'));
             $('form#edit [name=ringkasan]').val($(this).data('ringkasan'));
+            var selectedKompetensi = $(this).data('id_kopetensi');
+            $('#id_kompetensie').val(selectedKompetensi);
+
+            $.ajax({
+                url: '<?php echo site_url("kompetensi/getKompetensi"); ?>',
+                type: 'GET',
+                dataType: 'json',
+                success: function(data) {
+                    // Mengosongkan opsi sebelum mengisi ulang
+                    $('#id_kompetensie').empty();
+
+                    $.each(data, function(index, kompetensi) {
+                        // Mengecek apakah kompetensi saat ini cocok dengan data yang akan di-set sebagai selected
+                        var isSelected = (kompetensi.id_kopetensi == selectedKompetensi) ? 'selected' : '';
+
+                        $('#id_kompetensie').append('<option value="' + kompetensi.id_kopetensi + '" ' + isSelected + '>' + kompetensi.nama_kopetensi + '</option>');
+                    });
+                }
+            });
         })
 
         $(document).on('submit', 'form#edit', function(e) {

@@ -55,6 +55,7 @@ class Proposal_mahasiswa_model extends CI_Model
             'ringkasan' => $input['ringkasan'],
             'dosen_id' => $input['dosen_id'],
             'dosen2_id' => $input['dosen2_id'],
+            'id_kopetensi' => $input['id_kompetensi']
         ];
 
         $validate = $this->app->validate($data);
@@ -111,7 +112,7 @@ class Proposal_mahasiswa_model extends CI_Model
             'ringkasan' => $input['ringkasan'],
             'dosen_id' => $input['dosen_id'],
             'dosen2_id' => $input['dosen2_id'],
-            'dosen_penguji_id' => $input['dosen_penguji_id']
+            'id_kopetensi' => $input['id_kompetensie']
         ];
 
         $kondisi = ['proposal_mahasiswa.id' => $id];

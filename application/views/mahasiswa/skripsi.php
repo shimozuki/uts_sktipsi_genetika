@@ -58,6 +58,12 @@
                         <input type="text" class="form-control" name="judul_skripsi" placeholder="Masukkan Judul Skripsi">
                     </div>
                     <div class="form-group">
+						<label>Topik</label>
+						<select name="id_kompetensie" id="id_kompetensie" class="form-control">
+							<option value="">- Pilih Topik -</option>
+						</select>
+					</div>
+                    <div class="form-group">
                         <label>Pembimbing</label>
                         <select name="dosen_id" class="form-control">
                             <option value="">- Pilih Pembimbing -</option>
@@ -124,6 +130,12 @@
                     <div class="form-group">
                         <label>Judul Skripsi</label>
                         <input type="text" class="form-control" name="judul_skripsi" placeholder="Masukkan Judul Skripsi">
+                    </div>
+                    <div class="form-group">
+                        <label>Topik</label>
+                        <select name="id_kompetensie" id="id_kompetensi" class="form-control">
+                            <option value="">- Pilih Topik -</option>
+                        </select>
                     </div>
                     <div class="form-group">
                         <label>Pembimbing</label>
@@ -293,6 +305,18 @@
         }
 
         show();
+        $(document).ready(function() {
+            $.ajax({
+                url: '<?php echo site_url("kompetensi/getKompetensi"); ?>',
+                type: 'GET',
+                dataType: 'json',
+                success: function(data) {
+                    $.each(data, function(index, kompetensi) {
+                        $('#id_kompetensi').append('<option value="' + kompetensi.id_kopetensi + '">' + kompetensi.nama_kopetensi + '</option>');
+                    });
+                }
+            });
+        });
 
         $(document).on('submit', 'form#tambah', function(e) {
             e.preventDefault();
