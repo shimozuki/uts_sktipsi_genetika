@@ -53,7 +53,7 @@
                     </div>
                     <div class="form-group">
                         <label>Topik</label>
-                        <select name="id_kompetensie" id="id_kompetensi" class="form-control">
+                        <select name="id_kompetensi" id="id_kompetensi" class="form-control">
                             <option value="">- Pilih Topik -</option>
                         </select>
                     </div>
