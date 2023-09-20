@@ -92,6 +92,12 @@
 					<div class="form-group">
 						<label>Email</label><input type="email" class="form-control" name="email" placeholder="Masukkan Email" autocomplete="off">
 					</div>
+					<div class="form-group">
+						<label>Kopetensi</label>
+						<select name="id_kompetensie" id="id_kompetensie" class="form-control">
+							<option value="">- Pilih Kompetensi -</option>
+						</select>
+					</div>
 				</div>
 				<div class="modal-footer">
 					<button class="btn btn-default" type="button" data-dismiss="modal">Batal</button>
@@ -209,7 +215,6 @@
 		show();
 
 		$(document).ready(function() {
-			// Memuat data kompetensi saat halaman dimuat
 			$.ajax({
 				url: '<?php echo site_url("kompetensi/getKompetensi"); ?>',
 				type: 'GET',
@@ -221,17 +226,6 @@
 				}
 			});
 		});
-
-		// call('api/dosen').done(function(req) {
-		// 	dosen = '<option value="">- Pilih Kopentensi -</option>';
-		// 	if (req.data) {
-		// 		$.each(req.data, function(index, obj) {
-		// 			dosen += '<option value="' + obj.id_kopentensi + '">' + obj.nama_kopetensi + '</option>';
-		// 		});
-		// 		$('[name=id_kopetensi]').html(dosen); // Mengisi dropdown dengan pilihan-pilihan kopetensi
-		// 	}
-		// 	// show();
-		// });
 
 		$(document).on('submit', 'form#tambah', function(e) {
 			e.preventDefault();
@@ -253,7 +247,26 @@
 			$('form#edit [name=nama]').val($(this).data('nama'));
 			$('form#edit [name=nomor_telepon]').val($(this).data('nomor_telepon'));
 			$('form#edit [name=email]').val($(this).data('email'));
-		})
+			var selectedKompetensi = $(this).data('id_kopetensi');
+			$('#id_kompetensie').val(selectedKompetensi);
+
+			$.ajax({
+				url: '<?php echo site_url("kompetensi/getKompetensi"); ?>',
+				type: 'GET',
+				dataType: 'json',
+				success: function(data) {
+					// Mengosongkan opsi sebelum mengisi ulang
+					$('#id_kompetensie').empty();
+
+					$.each(data, function(index, kompetensi) {
+						// Mengecek apakah kompetensi saat ini cocok dengan data yang akan di-set sebagai selected
+						var isSelected = (kompetensi.id_kopetensi == selectedKompetensi) ? 'selected' : '';
+
+						$('#id_kompetensie').append('<option value="' + kompetensi.id_kopetensi + '" ' + isSelected + '>' + kompetensi.nama_kopetensi + '</option>');
+					});
+				}
+			});
+		});
 
 		$(document).on('submit', 'form#edit', function(e) {
 			e.preventDefault();
