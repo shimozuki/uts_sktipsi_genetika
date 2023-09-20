@@ -406,7 +406,6 @@
     })
     $(document).ready(function() {
             $('#generateButton').click(function() {
-
                 $.ajax({
                     url: base_url + 'generateskripsi',
                     type: 'POST',
