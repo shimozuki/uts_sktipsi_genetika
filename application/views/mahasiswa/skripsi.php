@@ -255,7 +255,7 @@
                         }
                     },
                     {
-                        data: "jadwal_skripsi"
+                        data: 'judul_skripsi'
                     },
                     {
                         data: "persetujuan",
@@ -270,16 +270,7 @@
                         }
                     },
                     {
-                        data: "sk_tim",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/skripsi/sk_tim/' + data + '">' + data + '</a>';
-                        }
-                    },
-                    {
-                        data: "bukti_konsultasi",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/skripsi/bukti_konsultasi/' + data + '">' + data + '</a>';
-                        }
+                        data: "tempat",
                     },
                     {
                         data: null,
