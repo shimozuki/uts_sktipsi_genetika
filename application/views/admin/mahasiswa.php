@@ -39,9 +39,9 @@
                         <th>
                             <center>Seminar Proposal</center>
                         </th>
-                        <th>
+                        <!-- <th>
                             <center>Hasil Penelitian</center>
-                        </th>
+                        </th> -->
                         <!-- <th>
                             <center>HK3</center>
                         </th> -->
@@ -147,16 +147,16 @@
                         }
                     }
                 },
-                {
-                    data: "hasil_penelitian",
-                    render: function(data) {
-                        if (data == '1') {
-                            return '<center><span class="badge badge-success"><i class="fa fa-check"></i></span></center>';
-                        } else {
-                            return '<center><span class="badge badge-danger"><i class="fa fa-times"></i></span></center>';
-                        }
-                    }
-                },
+                // {
+                //     data: "hasil_penelitian",
+                //     render: function(data) {
+                //         if (data == '1') {
+                //             return '<center><span class="badge badge-success"><i class="fa fa-check"></i></span></center>';
+                //         } else {
+                //             return '<center><span class="badge badge-danger"><i class="fa fa-times"></i></span></center>';
+                //         }
+                //     }
+                // },
                 // {
                 //     data: "hk3",
                 //     render: function(data) {
