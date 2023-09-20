@@ -38,7 +38,8 @@ class Dosen_model extends CI_Model
             'nip' => $input['nip'],
             'nama' => $input['nama'],
             'nomor_telepon' => $input['nomor_telepon'],
-            'email' => $input['email']
+            'email' => $input['email'],
+            'id_kopetensi' => $input['id_kompetensi']
         ];
 
         $validate = $this->app->validate($data);
