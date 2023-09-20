@@ -21,27 +21,24 @@
             <span class="badge badge-danger ml-3"><i class="fa fa-times"></i> Belum/Tidak Disetujui</span>
         </div>
     </div>
-    <div class="card-body">
-        <div class="table-responsive">
-            <table class="table table-hover" id="data-skripsi">
-                <thead>
-                    <tr>
-                        <th>No</th>
-                        <th>Status</th>
-                        <th>Judul Skripsi</th>
-                        <th>Dosen Pembimbing</th>
-                        <th>Dosen Penguji</th>
-                        <th>Jadwal Skripsi</th>
-                        <th>Persetujuan</th>
-                        <th>File Skripsi</th>
-                        <th>SK Tim</th>
-                        <th>Bukti Konsultasi</th>
-                        <th>Aksi</th>
-                    </tr>
-                </thead>
-                <tbody></tbody>
-            </table>
-        </div>
+    <div class="table-responsive">
+        <table class="table table-hover" id="data-skripsi">
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Status</th>
+                    <th>Judul Skripsi</th>
+                    <th>Dosen Pembimbing</th>
+                    <th>Dosen Penguji</th>
+                    <th>Jadwal Skripsi</th>
+                    <th>Persetujuan</th>
+                    <th>File Skripsi</th>
+                    <th>SK Tim</th>
+                    <th>Bukti Konsultasi</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
     </div>
 </div>
 <div class="modal fade" id="edit">

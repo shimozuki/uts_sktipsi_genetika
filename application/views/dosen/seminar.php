@@ -29,10 +29,10 @@
                         <th>No</th>
                         <th>NIM</th>
                         <th>Mahasiswa</th>
-                        <th>Nama Prodi</th>
                         <th>Proposal</th>
                         <th>Tanggal</th>
                         <th>Tempat</th>
+                        <th>Dosen Penguji</th>
                         <th>Persetujuan</th>
                         <th>File Proposal</th>
                         <th>Aksi</th>
@@ -90,13 +90,10 @@
                         data: "nim"
                     },
                     {
-                        data: "nama_mahasiswa"
+                        data: "siswa"
                     },
                     {
-                        data: "nama_prodi"
-                    },
-                    {
-                        data: "proposal_mahasiswa_judul"
+                        data: "judul_skripsi"
                     },
                     {
                         data: null,
@@ -106,6 +103,13 @@
                     },
                     {
                         data: "tempat"
+                    },
+                    {
+                        data: null,
+                        render: function(data) {
+                            return data.penguji1 + ' <br>' + data.penguji2
+                        }
+
                     },
                     {
                         data: "persetujuan",
@@ -124,9 +128,12 @@
                         render: function(data) {
                             return `
                         <div class="text-center">
-                            <a href="` + base_url + `dosen/seminar/detail/` + data.id + `" class="btn btn-sm btn-success">
+                            <a href="` + base_url + `admin/seminar/detail/` + data.id + `" class="btn btn-sm btn-success">
                                 <i class="fa fa-search"></i>
                             </a>
+                            <button class="btn btn-danger btn-hapus btn-sm" type="button" data-toggle="modal" data-target="#hapus" data-id="` + data.id + `">
+                                <i class="fa fa-trash"></i>
+                            </button>
                         </div>
                         `;
                         }
@@ -180,29 +187,29 @@
     }
 
     $(document).ready(function() {
-            $('#generateButton').click(function() {
+        $('#generateButton').click(function() {
 
-                $.ajax({
-                    url: base_url + 'generateseminar',
-                    type: 'POST',
-                    dataType: 'json',
-                    success: function(response) {
-                        if (response.status === 'success') {
-                            alert('Success Generate');
-                            // Handle success actions here
-                            location.reload();
-                        } else {
-                            alert('error');
-                            // Handle error actions here
-                        }
-                    },
-                    error: function(xhr, textStatus, errorThrown) {
-                        alert('AJAX request failed.');
-                        console.log(xhr.responseText);
+            $.ajax({
+                url: base_url + 'generateseminar',
+                type: 'POST',
+                dataType: 'json',
+                success: function(response) {
+                    if (response.status === 'success') {
+                        alert('Success Generate');
+                        // Handle success actions here
+                        location.reload();
+                    } else {
+                        alert('error');
+                        // Handle error actions here
                     }
-                });
+                },
+                error: function(xhr, textStatus, errorThrown) {
+                    alert('AJAX request failed.');
+                    console.log(xhr.responseText);
+                }
             });
         });
+    });
 </script>
 <?php $this->app->endSection('script') ?>
 

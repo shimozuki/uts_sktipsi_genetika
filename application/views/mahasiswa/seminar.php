@@ -23,9 +23,12 @@
                 <thead>
                     <tr>
                         <th>No</th>
+                        <th>NIM</th>
+                        <th>Mahasiswa</th>
                         <th>Proposal</th>
                         <th>Tanggal</th>
                         <th>Tempat</th>
+                        <th>Dosen Penguji</th>
                         <th>Persetujuan</th>
                         <th>File Proposal</th>
                         <th>Aksi</th>
@@ -166,9 +169,6 @@
                 "ajax": {
                     "url": base_url + 'api/seminar',
                     "method": "POST",
-                    "data": {
-                        mahasiswa_id: '<?= $this->session->userdata('id') ?>'
-                    },
                     "dataSrc": "data"
                 },
                 "columns": [{
@@ -178,7 +178,13 @@
                         }
                     },
                     {
-                        data: "proposal_mahasiswa_judul"
+                        data: "nim"
+                    },
+                    {
+                        data: "siswa"
+                    },
+                    {
+                        data: "judul_skripsi"
                     },
                     {
                         data: null,
@@ -188,6 +194,13 @@
                     },
                     {
                         data: "tempat"
+                    },
+                    {
+                        data: null,
+                        render: function(data) {
+                            return data.penguji1 + ' <br>' + data.penguji2
+                        }
+
                     },
                     {
                         data: "persetujuan",
@@ -206,10 +219,9 @@
                         render: function(data) {
                             return `
                         <div class="text-center">
-                            <a href="` + base_url + `mahasiswa/seminar/detail/` + data.id + `" class="btn btn-sm btn-success">
+                            <a href="` + base_url + `admin/seminar/detail/` + data.id + `" class="btn btn-sm btn-success">
                                 <i class="fa fa-search"></i>
                             </a>
-                           
                         </div>
                         `;
                         }

@@ -9,6 +9,7 @@ class Seminar_model extends CI_Model
 	public function index($input)
 	{
 		$this->db->select('
+			proposal_mahasiswa_v.judul_skripsi,
 			seminar.id,
 			seminar.proposal_mahasiswa_id,
 			seminar.tanggal,
@@ -16,16 +17,16 @@ class Seminar_model extends CI_Model
 			seminar.tempat,
 			seminar.file_proposal,
 			seminar.persetujuan,
-			proposal_mahasiswa_v.judul as proposal_mahasiswa_judul,
-			proposal_mahasiswa_v.nama_mahasiswa,
+			proposal_mahasiswa_v.siswa,
 			proposal_mahasiswa_v.nim,
-			proposal_mahasiswa_v.nama_prodi,
+			proposal_mahasiswa_v.penguji1,
+			proposal_mahasiswa_v.penguji2,
 			hasil_seminar.status as hasil_seminar_status
 		');
 
 		$this->db->from($this->table);
 		$this->db->join('hasil_seminar', 'hasil_seminar.seminar_id = seminar.id', 'left');
-		$this->db->join('proposal_mahasiswa_v', 'proposal_mahasiswa_v.id = seminar.proposal_mahasiswa_id', 'left');
+		$this->db->join('proposal_mahasiswa_v', 'proposal_mahasiswa_v.id = seminar.id', 'left');
 
 		if ($input['mahasiswa_id'] != null) {
 			$this->db->where('proposal_mahasiswa_v.mahasiswa_id', $input['mahasiswa_id']);

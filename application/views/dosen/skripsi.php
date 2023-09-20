@@ -43,16 +43,19 @@
             <table class="table table-hover" id="data-skripsi">
                 <thead>
                     <tr>
-                        <th>No</th>
+                    <th>No</th>
+                        <th>NIM</th>
+                        <th>Nama Mahasiswa</th>
                         <th>Status</th>
                         <th>Judul Skripsi</th>
                         <th>Dosen Pembimbing</th>
-                        <th>Dosen Penguji</th>
+                        <th>Dosen Penguji 1</th>
+                        <th>Dosen Penguji 2</th>
                         <th>Jadwal Skripsi</th>
                         <th>Persetujuan</th>
                         <th>File Skripsi</th>
-                        <th>SK Tim</th>
-                        <th>Bukti Konsultasi</th>
+                        <th>Ruangan</th>
+                        <th>Aksi</th>
                     </tr>
                 </thead>
                 <tbody></tbody>
@@ -101,16 +104,22 @@
                     },
                     "dataSrc": "data"
                 },
-                "columns": [{
+                "columns": [
+                    {
                         data: null,
                         render: function(data, type, row, meta) {
                             return meta.row + meta.settings._iDisplayStart + 1;
                         }
                     },
                     {
+                        data: "nim"
+                    },
+                    {
+                        data: "siswa"
+                    },
+                    {
                         data: null,
                         render: function(data) {
-                            if (data.dosen_id == '<?= $this->session->userdata('id') ?>' || data.dosen_penguji_id == '<?= $this->session->userdata('id') ?>') {
                             if (data.status == '1') {
                                 status = '\
                             <button class="btn btn-sm btn-setuju btn-success" type="button" data-id="' + data.id + '" data-judul_skripsi="' + data.judul_skripsi + '" data-status="' + data.status + '" data-toggle="modal" data-target="#setujui">\
@@ -127,37 +136,25 @@
                             return '\
                             <div class="text-center">' + status + '</div>\
                             ';
-                            }else {
-                                if (data.status == '1') {
-                                status = '\
-                            <button class="btn btn-sm btn-setuju btn-success" type="button>\
-                                <i class="fa fa-check"></i>\
-                            </button>\
-                            ';
-                            } else {
-                                status = '\
-                            <button class="btn btn-sm btn-setuju btn-danger" type="button">\
-                                <i class="fa fa-times"></i>\
-                            </button>\
-                            ';
-                            }
-                            return '\
-                            <div class="text-center">' + status + '</div>\
-                            ';
-                            }
                         }
                     },
                     {
                         data: "judul_skripsi"
                     },
                     {
-                        data: "nama_pembimbing"
+                        data: "dosen_pembimbing"
                     },
                     {
-                        data: "nama_penguji"
+                        data: "penguji_1"
                     },
                     {
-                        data: "jadwal_skripsi"
+                        data: "penguji_2"
+                    },
+                    {
+                        data: null,
+                        render: function(data) {
+                            return data.tanggal + ' ' + data.jam
+                        }
                     },
                     {
                         data: "persetujuan",
@@ -172,17 +169,21 @@
                         }
                     },
                     {
-                        data: "sk_tim",
-                        render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/skripsi/sk_tim/' + data + '">' + data + '</a>';
-                        }
+                        data: "tempat"
                     },
                     {
-                        data: "bukti_konsultasi",
+                        data: null,
                         render: function(data) {
-                            return '<a href="' + base_url + 'cdn/vendor/skripsi/bukti_konsultasi/' + data + '">' + data + '</a>';
+                            return '<div class="text-center">\
+                            <button class="btn btn-sm btn-info btn-edit" type="button" data-toggle="modal" data-target="#edit" data-id="' + data.id + '" data-mahasiswa_id="' + data.mahasiswa_id + '" data-judul_skripsi="' + data.judul_skripsi + '" data-jadwal_skripsi="' + data.jadwal_skripsi + '" data-dosen_id="' + data.dosen_id + '" data-dosen_penguji_id="' + data.dosen_penguji_id + '" data-file_skripsi="' + data.file_skripsi + '" data-sk_tim="' + data.sk_tim + '" data-persetujuan="' + data.persetujuan + '" data-bukti_konsultasi="' + data.bukti_konsultasi + '">\
+                                <i class="fa fa-pen"></i>\
+                            </button>\
+    						<button class="btn btn-danger btn-sm btn-hapus" type="button" data-toggle="modal" data-target="#hapus" data-id="' + data.id + '">\
+    							<i class="fa fa-trash"></i>\
+    						</button>\
+    					</div>'
                         }
-                    },
+                    }
                 ],
                 "language": {
                     "zeroRecords": "data tidak tersedia"
