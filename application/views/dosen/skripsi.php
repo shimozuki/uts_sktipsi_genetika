@@ -142,7 +142,10 @@
                         data: "judul_skripsi"
                     },
                     {
-                        data: "dosen_pembimbing"
+                        data: null,
+                        render: function(data) {
+                            return data.penguji_1 + '<br /> ' + data.penguji_2
+                        }
                     },
                     {
                         data: "penguji_1"
