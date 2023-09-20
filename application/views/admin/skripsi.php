@@ -227,7 +227,7 @@
                     {
                         data: null,
                         render: function(data) {
-                            return data.penguji_1 + '<br /> ' + data.penguji_2
+                            return data.pembimbing_1 + '<br /> ' + data.pembimbing_2
                         }
                     },
                     {
