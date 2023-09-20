@@ -408,7 +408,7 @@
             $('#generateButton').click(function() {
 
                 $.ajax({
-                    url: base_url + 'generateseminar',
+                    url: base_url + 'generateskripsi',
                     type: 'POST',
                     dataType: 'json',
                     success: function(response) {
