@@ -51,13 +51,11 @@ class Skripsi_model extends CI_Model
     {
         $data = [
             'judul_skripsi' => $input['judul_skripsi'],
-            'jadwal_skripsi' => $input['jadwal_skripsi'],
             'dosen_id' => $input['dosen_id'],
-            'dosen_penguji_id' => $input['dosen_penguji_id'],
+            'dosen2_id' => $input['dosen2_id'],
+            'file_skripsi' => $input['file_skripsi'],
             'mahasiswa_id' => $input['mahasiswa_id'],
             'persetujuan' => $input['persetujuan'],
-            'file_skripsi' => $input['file_skripsi'],
-            'sk_tim' => $input['sk_tim'],
             'bukti_konsultasi' => $input['bukti_konsultasi'],
         ];
 
@@ -75,11 +73,6 @@ class Skripsi_model extends CI_Model
             $file_skripsi_file = explode(';base64,', $data['file_skripsi'])[1];
             file_put_contents(FCPATH . 'cdn/vendor/skripsi/file_skripsi/' . $file_nama, base64_decode($file_skripsi_file));
             $data['file_skripsi'] = $file_nama;
-
-            // upload sk_tim
-            $sk_tim_file = explode(';base64,', $data['sk_tim'])[1];
-            file_put_contents(FCPATH . 'cdn/vendor/skripsi/sk_tim/' . $file_nama, base64_decode($sk_tim_file));
-            $data['sk_tim'] = $file_nama;
 
             // upload base64 file_skripsi
             $bukti_konsultasi_file = explode(';base64,', $data['bukti_konsultasi'])[1];

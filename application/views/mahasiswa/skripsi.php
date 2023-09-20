@@ -26,6 +26,8 @@
             <thead>
                 <tr>
                     <th>No</th>
+                    <th>NIM</th>
+                    <th>Nama Mahasiswa</th>
                     <th>Status</th>
                     <th>Judul Skripsi</th>
                     <th>Dosen Pembimbing</th>
@@ -33,8 +35,8 @@
                     <th>Jadwal Skripsi</th>
                     <th>Persetujuan</th>
                     <th>File Skripsi</th>
-                    <th>SK Tim</th>
-                    <th>Bukti Konsultasi</th>
+                    <th>Ruangan</th>
+                    <th>Aksi</th>
                 </tr>
             </thead>
             <tbody></tbody>
@@ -58,6 +60,12 @@
                     <div class="form-group">
                         <label>Pembimbing</label>
                         <select name="dosen_id" class="form-control">
+                            <option value="">- Pilih Pembimbing -</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Pembimbing 2</label>
+                        <select name="dosen2_id" class="form-control">
                             <option value="">- Pilih Pembimbing -</option>
                         </select>
                     </div>
@@ -124,14 +132,10 @@
                         </select>
                     </div>
                     <div class="form-group">
-                        <label>Penguji</label>
-                        <select name="dosen_penguji_id" class="form-control">
-                            <option value="">- Pilih Penguji -</option>
+                        <label>Pembimbing 2</label>
+                        <select name="dosen2_id" class="form-control">
+                            <option value="">- Pilih Pembimbing -</option>
                         </select>
-                    </div>
-                    <div class="form-group">
-                        <label>Jadwal Skripsi</label>
-                        <input name="jadwal_skripsi" type="text" class="form-control dateTime" placeholder="Pilih Jadwal Skripsi" readonly>
                     </div>
                     <div class="form-group">
                         <label>Persetujuan</label>
@@ -142,11 +146,6 @@
                         <label>File Skripsi</label>
                         <input type="file" class="form-control" name="pilih-file_skripsi" accept="application/pdf">
                         <input type="hidden" name="file_skripsi">
-                    </div>
-                    <div class="form-group">
-                        <label>SK Tim</label>
-                        <input type="file" class="form-control" name="pilih-sk_tim" accept="application/pdf">
-                        <input type="hidden" name="sk_tim">
                     </div>
                     <div class="form-group">
                         <label>Bukti Konsultasi</label>
@@ -197,7 +196,7 @@
                 })
             }
             $('[name=dosen_id]').html(dosen);
-            $('[name=dosen_penguji_id]').html(dosen);
+            $('[name=dosen2_id]').html(dosen);
         })
 
         show = () => {
@@ -219,6 +218,12 @@
                         }
                     },
                     {
+                        data: 'nim'
+                    },
+                    {
+                        data: "judul_skripsi"
+                    },
+                    {
                         data: null,
                         render: function(data) {
                             if (data.status == '1') {
@@ -238,10 +243,16 @@
                         data: "judul_skripsi"
                     },
                     {
-                        data: "nama_pembimbing"
+                        data: null,
+                        render: function(data) {
+                            return data.pembimbing_1 + '<br /> ' + data.pembimbing_2
+                        }
                     },
                     {
-                        data: "nama_penguji"
+                        data: null,
+                        render: function(data) {
+                            return data.penguji_1 + '<br /> ' + data.penguji_2
+                        }
                     },
                     {
                         data: "jadwal_skripsi"

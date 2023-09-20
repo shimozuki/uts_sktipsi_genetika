@@ -268,3 +268,46 @@ ERROR - 2023-09-20 06:45:01 --> 404 Page Not Found: Cdn/vendor
 ERROR - 2023-09-20 06:45:01 --> 404 Page Not Found: Cdn/vendor
 ERROR - 2023-09-20 06:45:32 --> 404 Page Not Found: Cdn/vendor
 ERROR - 2023-09-20 06:45:32 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 11:46:53 --> Severity: error --> Exception: Unknown column 'status' in 'where clause' C:\xampp\htdocs\skripsi\system\database\drivers\mysqli\mysqli_driver.php 305
+ERROR - 2023-09-20 06:47:14 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:47:14 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:47:20 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:47:20 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:49:13 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:49:13 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:49:13 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 31
+ERROR - 2023-09-20 06:49:21 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\skripsi\application\models\Seminar_model.php 31
+ERROR - 2023-09-20 06:51:44 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:51:44 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:51:48 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:51:49 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:58:19 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 06:58:19 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:06:54 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:06:54 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:07:29 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:07:29 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:07:51 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:07:51 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:08:21 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:08:21 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:16:31 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:16:31 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:17:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:17:36 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:18:25 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:18:25 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:18:56 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:18:56 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:06 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:07 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:18 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:18 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:26 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:26 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:47 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:47 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:55 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:19:55 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:20:10 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-09-20 07:20:11 --> 404 Page Not Found: Cdn/vendor
