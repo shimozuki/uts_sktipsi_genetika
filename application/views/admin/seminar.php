@@ -224,7 +224,7 @@
         $('#generateButton').click(function() {
 
             $.ajax({
-                url: base_url + 'generateseminar',
+                url: base_url + 'updateSeminarSchedule',
                 type: 'POST',
                 dataType: 'json',
                 success: function(response) {
